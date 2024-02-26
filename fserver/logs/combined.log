@@ -1,0 +1,960 @@
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"DELETE campass/test_add_json.json"}
+{"level":"info","message":"POST campass/test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache miss for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"DELETE campass/test_add_text.txt"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"DELETE campass/test_add_text.txt"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"DELETE campass/test_add_text.txt"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"DELETE campass/test_add_text.txt"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"POST campass/test_add_json.json"}
+{"level":"info","message":"POST campass/test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"GET campass/test_add_json.json"}
+{"level":"info","message":"Cache hit for test_add_json.json"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"DELETE campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache miss for test_add_text.txt"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_text.txt"}
+{"level":"info","message":"GET campass/test_add_text.txt"}
+{"level":"info","message":"Cache hit for test_add_text.txt"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"POST campass/test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}
+{"level":"info","message":"Server closed"}
+{"level":"info","message":"LocalCache closed"}
+{"level":"info","message":"RemoteStorage closed"}
+{"level":"info","message":"RemoteStorage initialized"}
+{"level":"info","message":"Server started at http://localhost:9876"}
+{"level":"info","message":"LocalCache initialized"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache miss for test_image"}
+{"level":"info","message":"Cache miss for test_add_mp4.mp4"}
+{"level":"info","message":"GET campass/test_image"}
+{"level":"info","message":"Cache hit for test_image"}
+{"level":"info","message":"GET campass/test_add_mp4.mp4"}
+{"level":"info","message":"Cache hit for test_add_mp4.mp4"}

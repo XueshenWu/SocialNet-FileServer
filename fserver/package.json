@@ -1,0 +1,30 @@
+{
+  "name": "fserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.496.0",
+    "@aws-sdk/lib-storage": "^3.496.0",
+    "@smithy/querystring-builder": "^2.1.1",
+    "@types/express": "^4.17.21",
+    "@types/redis": "^4.0.11",
+    "aws-sdk": "^2.1540.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "redis": "^4.6.12",
+    "winston": "^3.11.0",
+    "zustand": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
+  }
+}
